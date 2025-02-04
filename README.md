@@ -21,7 +21,7 @@ This project is a **Streamlit-based web application** that predicts the average 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bholu877/Grid-Load-Prediction.git
-   cd grid-load-prediction
+   cd Grid-Load-Prediction
 
    ```
 2. Install dependencies:
